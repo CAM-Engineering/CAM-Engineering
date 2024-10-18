@@ -29,3 +29,4 @@
   ;; Step 5: Return control to AutoCAD (required)
   (princ)
 )
+;go away
